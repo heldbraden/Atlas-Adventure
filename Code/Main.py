@@ -26,7 +26,7 @@ while True:
         elif event.type == pygame.VIDEORESIZE:
             screen.blit(pygame.transform.scale(levelScreen, event.dict['size']), (0, 0))
     
-    screen.fill((255, 255, 255)
+    screen.fill((255, 255, 255))
     level.run()
 
     pygame.display.update()
