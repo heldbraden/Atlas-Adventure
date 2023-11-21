@@ -1,0 +1,52 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Level1.tmx": {
+            "scale": 0.3762,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1747.7405635300374,
+                "y": 243.22169059011162
+            }
+        },
+        "items_spritesheet.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "tiles_spritesheet.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/18034/Documents/Clemson/2023/Fall 2023/CPSC 4160/BGH - FinalGame",
+    "last.imagePath": "C:/Users/18034/Documents/Clemson/2023/Fall 2023/CPSC 4160/AtlasAdventure/Graphics/Platformer Art Complete Pack/Base pack/Items",
+    "map.height": 7,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 70,
+    "map.tileWidth": 70,
+    "map.width": 50,
+    "openFiles": [
+        "Level1.tmx",
+        "tiles_spritesheet.tsx",
+        "items_spritesheet.tsx"
+    ],
+    "project": "GameLevels.tiled-project",
+    "recentFiles": [
+        "items_spritesheet.tsx",
+        "tiles_spritesheet.tsx",
+        "Level1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 2,
+    "tileset.tileSize": {
+        "height": 70,
+        "width": 70
+    }
+}
